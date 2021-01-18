@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 moviesClean.csv
+
+profit_model.h5
+rating_model.h5
