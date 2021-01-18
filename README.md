@@ -4,7 +4,7 @@
 This repo is the continuation of the final project of my data analytics certificate. My hypothesis was that the machine learning models could be improved by including fewer years of recent movie data, rathe rthan 40 years of movie data. I ultimately included 10 years of data, 2010-2019. The accuracy of the box office success predictor went up significantly, from 59% to 64.5%. The critical success predictor changed from 61% to 62% accurate.
 
 [Tableau Visualizations of new results](https://public.tableau.com/profile/marianne3066#!/vizhome/ImprovedMoviePredictionNeuralNetwork/MoviePredictionNeuralNetwork)
-Thew new models made different predictions for 2021 than in the original model, predicting 9 movies will be "good", and only 5 movies will be commercial successes.
+The new models made different predictions for 2021 than in the original model, predicting 9 movies will be "good", and only 5 movies will be commercial successes.
 
 
 # Original Project Repo
