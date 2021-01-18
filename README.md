@@ -9,7 +9,9 @@ I made the following changes between the final project and my updated visualizat
 * I increased the total number of actors allowed per movie to 10. Limiting to three provided too little data, as there are actors who may be cast in secondary roles who may still be a box-office or critical draw.
 * I limited data to 10 years worth of movies, 2010-2019. My hypothesis was that including movies from a larger timeframe reduced our accuracy, as including actors and directors who haven't been active in years likely waters down the impact of current actors and directors.
 
-##Original Project Readme:
+
+
+# Original Project Readme:
 
 **Team Members:**
 * Jason O'Day
